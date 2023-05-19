@@ -1,4 +1,5 @@
-print('fukuchan is hentai')
+print('fukuchan is hentai'
+       + "kkk")
 
 print('Mr.gohn likes ramen')
 print("I'm Takanori Homma.")
